@@ -14,10 +14,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author david
- */
 public class MailListReader {
 
     public static List<Mail> read(String fileName) {
